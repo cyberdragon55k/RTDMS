@@ -1,0 +1,101 @@
+"1","Flood","Bolivia","High","2025-03-27","Heavy rains caused severe flooding, displacing thousands.","reliefweb.int",\N,\N
+"2","Oil Spill","Ecuador","Medium","2025-03-27","Oil spill affecting marine ecosystems and local fisheries.","reliefweb.int",\N,\N
+"3","Cyclone","Indian Ocean","High","2025-03-27","Tropical Cyclone Jude is developing with strong winds.","reliefweb.int",\N,\N
+"4","Flood","Argentina","High","2025-03-27","Severe flooding in multiple provinces, evacuations ongoing.","reliefweb.int",\N,\N
+"5","Flood","Australia","High","2025-03-27","Major flood warning for Giru, heavy rainfall affecting the region.","couriermail.com.au",\N,\N
+"6","Heavy Rain","South Texas, USA","Medium","2025-03-27","Excessive rainfall raising flood concerns.","weather.gov",\N,\N
+"7","Winter Storm","Pacific Northwest, USA","Medium","2025-03-27","Storm bringing rain and mountain snow.","weather.gov",\N,\N
+"8","Snowstorm","Western USA","High","2025-03-27","Heavy snow expected in mountain regions.","cpc.ncep.noaa.gov",\N,\N
+"9","Earthquake","Global","Varies","2025-03-27","Real-time alerts available for global seismic activity.","gdacs.org",\N,\N
+"10","Wildfire","Maui, Hawaii, USA","High","2023-08-08","Lahaina wildfire triggered by drought, 100+ fatalities",\N,\N,\N
+"11","Flood","Jakarta, Indonesia","Medium","2024-02-15","Monsoon floods displacing 5,000 households",\N,\N,\N
+"12","Tornado","Oklahoma, USA","Medium","2024-05-20","Tornado causing structural damage in Moore",\N,\N,\N
+"13","Earthquake","Ishikawa, Japan","High","2024-01-01","Tsunami warnings issued, 200+ fatalities",\N,\N,\N
+"14","Hurricane","Florida, USA","High","2024-09-10","Hurricane Ian recurrence, coastal flooding",\N,\N,\N
+"15","Drought","Horn of Africa","Medium","2024-07-30","Prolonged drought affecting Somalia/Kenya",\N,\N,\N
+"16","Heatwave","Phoenix, AZ, USA","Medium","2024-06-15","Record temperatures, 50+ heat-related deaths",\N,\N,\N
+"17","Landslide","Papua New Guinea","High","2024-03-22","Landslide after heavy rains, 2,000 buried",\N,\N,\N
+"18","Wildfire","Alberta, Canada","Medium","2024-08-05","Evacuation of 30,000 residents, 1.2M acres burned",\N,\N,\N
+"19","Cyclone","Queensland, Australia","High","2024-12-25","Coastal infrastructure destroyed, 150 mph winds",\N,\N,\N
+"20","Tsunami","Chile","High","2024-11-15","Massive tsunami following a deep-sea earthquake, causing coastal destruction.",\N,\N,\N
+"21","Flood","Bangladesh","High","2024-09-12","Monsoon floods submerging villages, thousands displaced.",\N,\N,\N
+"22","Hurricane","Texas, USA","High","2024-08-27","Category 5 hurricane making landfall, widespread evacuations.",\N,\N,\N
+"23","Wildfire","California, USA","High","2024-07-10","Record-breaking wildfires in northern California, 500K acres burned.",\N,\N,\N
+"24","Tornado","Kansas, USA","Medium","2024-06-05","EF4 tornado tearing through Wichita, major damage to homes.",\N,\N,\N
+"25","Earthquake","Turkey","High","2024-05-20","7.8 magnitude earthquake causing severe structural collapse.",\N,\N,\N
+"26","Heatwave","Delhi, India","High","2024-05-15","Extreme heatwave reaching 48°C, hundreds suffering from heatstroke.",\N,\N,\N
+"27","Cyclone","Bay of Bengal","Medium","2024-04-12","Cyclone Nargis forming in the Bay of Bengal, heavy rains expected.",\N,\N,\N
+"28","Drought","Brazil","Medium","2024-03-25","Severe drought affecting Amazon basin, rivers drying up.",\N,\N,\N
+"29","Landslide","Nepal","High","2024-03-10","Massive landslide due to heavy rains, burying a village.",\N,\N,\N
+"30","Snowstorm","Russia","High","2024-02-18","Blizzard conditions affecting Moscow, disrupting transportation.",\N,\N,\N
+"31","Tornado","Alabama, USA","Medium","2024-01-30","EF3 tornado causing localized damage in suburban areas.",\N,\N,\N
+"32","Hurricane","Cuba","High","2023-12-22","Hurricane slamming into Cuba, damaging coastal towns.",\N,\N,\N
+"33","Wildfire","Greece","High","2023-11-05","Wildfire sweeping through Athens suburbs, residents evacuating.",\N,\N,\N
+"34","Flood","Malaysia","Medium","2023-10-12","Widespread flooding due to excessive rainfall, blocking highways.",\N,\N,\N
+"35","Earthquake","Indonesia","High","2023-09-28","Major quake near Jakarta, triggering aftershocks.",\N,\N,\N
+"36","Landslide","Peru","Medium","2023-08-19","Landslide blocking main roads, isolating mountain villages.",\N,\N,\N
+"37","Drought","South Africa","Medium","2023-07-15","Severe water shortages in Cape Town due to prolonged drought.",\N,\N,\N
+"38","Tsunami","Japan","High","2023-06-05","Tsunami alert issued after underwater volcanic eruption.",\N,\N,\N
+"39","Winter Storm","Canada","Medium","2023-05-10","Heavy snowfall causing road closures and power outages.",\N,\N,\N
+"40","Cyclone","Madagascar","High","2023-04-02","Powerful cyclone devastating coastal villages.",\N,\N,\N
+"41","Flood","Pakistan","High","2023-03-18","Flash floods in Balochistan leaving thousands homeless.",\N,\N,\N
+"42","Heatwave","Mexico","Medium","2023-02-27","Scorching temperatures causing increased energy demand.",\N,\N,\N
+"43","Tornado","Tennessee, USA","Medium","2023-01-21","Tornado outbreak in rural areas, significant property damage.",\N,\N,\N
+"44","Earthquake","Greece","High","2022-12-10","6.9 magnitude earthquake near Athens, causing panic.",\N,\N,\N
+"45","Drought","California, USA","Medium","2022-11-29","Prolonged drought affecting agriculture and reservoirs.",\N,\N,\N
+"46","Snowstorm","Sweden","Medium","2022-10-18","Unexpected blizzard covering Stockholm in heavy snow.",\N,\N,\N
+"47","Cyclone","Mozambique","High","2022-09-07","Cyclone Freddy causing widespread flooding and damage.",\N,\N,\N
+"48","Landslide","Colombia","High","2022-08-25","Deadly landslide following heavy rains, burying roads.",\N,\N,\N
+"49","Hurricane","Puerto Rico","High","2022-07-14","Hurricane Fiona causing island-wide power outages.",\N,\N,\N
+"50","Tsunami","Alaska, USA","Medium","2022-06-30","Tsunami warning issued after underwater earthquake.",\N,\N,\N
+"51","Hurricane","Louisiana, USA","High","2023-10-20","Category 4 hurricane making landfall, storm surges reported.",\N,\N,\N
+"52","Earthquake","Iran","High","2023-09-15","6.8 magnitude earthquake shaking Tehran, causing infrastructure damage.",\N,\N,\N
+"53","Flood","Vietnam","Medium","2023-08-29","Heavy rainfall submerging Hanoi streets, transport disruptions.",\N,\N,\N
+"54","Tornado","Mississippi, USA","High","2023-07-18","EF4 tornado tearing through rural towns, multiple injuries.",\N,\N,\N
+"55","Snowstorm","Norway","Medium","2023-06-05","Blizzard causing transport chaos, schools closed.",\N,\N,\N
+"56","Landslide","Bhutan","Medium","2023-05-22","Mountainous region hit by landslide, blocking major highway.",\N,\N,\N
+"57","Wildfire","Spain","High","2023-04-10","Forest fire spreading near Madrid, emergency evacuations.",\N,\N,\N
+"58","Drought","Sudan","High","2023-03-28","Water shortages affecting rural communities.",\N,\N,\N
+"59","Heatwave","Texas, USA","High","2023-02-17","Temperatures exceeding 115°F, electricity demand surging.",\N,\N,\N
+"60","Cyclone","Sri Lanka","Medium","2023-01-12","Cyclone causing coastal flooding and power outages.",\N,\N,\N
+"61","Earthquake","Chile","High","2022-12-30","7.5 magnitude earthquake near Santiago, aftershocks expected.",\N,\N,\N
+"62","Winter Storm","Minnesota, USA","Medium","2022-11-22","Snowstorm shutting down highways, flight cancellations.",\N,\N,\N
+"63","Hurricane","Honduras","High","2022-10-09","Category 3 hurricane affecting coastal towns.",\N,\N,\N
+"64","Flood","Philippines","High","2022-09-03","Typhoon-triggered floods in Manila, thousands displaced.",\N,\N,\N
+"65","Tornado","Kentucky, USA","Medium","2022-08-15","EF2 tornado damaging farms and power lines.",\N,\N,\N
+"66","Landslide","Nepal","High","2022-07-27","Heavy rains causing massive landslides, villages buried.",\N,\N,\N
+"67","Wildfire","Portugal","High","2022-06-12","Wildfire spreading across Algarve region, tourist evacuations.",\N,\N,\N
+"68","Heatwave","France","High","2022-05-09","Record-breaking heatwave, temperatures above 42°C.",\N,\N,\N
+"69","Tsunami","Fiji","Medium","2022-04-15","Underwater earthquake triggering tsunami warnings.",\N,\N,\N
+"70","Hurricane","Mexico","High","2022-03-30","Hurricane approaching Yucatán Peninsula, evacuations ongoing.",\N,\N,\N
+"71","Cyclone","Bangladesh","High","2022-02-25","Cyclone bringing heavy rainfall and strong winds.",\N,\N,\N
+"72","Drought","Australia","Medium","2022-01-18","Water levels dropping critically, farmers impacted.",\N,\N,\N
+"73","Flood","South Korea","Medium","2021-12-10","Unexpected flash floods in Seoul, urban areas affected.",\N,\N,\N
+"74","Snowstorm","Finland","Medium","2021-11-21","Extreme snowfall disrupting flights and road transport.",\N,\N,\N
+"75","Earthquake","Haiti","High","2021-10-09","7.3 magnitude earthquake causing widespread damage.",\N,\N,\N
+"76","Landslide","China","High","2021-09-17","Torrential rains leading to deadly landslide in Sichuan.",\N,\N,\N
+"77","Wildfire","Canada","High","2021-08-05","Wildfire burning across British Columbia, smoke reaching USA.",\N,\N,\N
+"78","Tornado","Alabama, USA","Medium","2021-07-22","EF3 tornado hitting suburban areas, structural damage reported.",\N,\N,\N
+"79","Cyclone","Mozambique","High","2021-06-14","Cyclone storm surge flooding coastal towns.",\N,\N,\N
+"80","Heatwave","Germany","Medium","2021-05-03","High temperatures leading to record-breaking power usage.",\N,\N,\N
+"81","Flood","Pakistan","High","2021-04-19","Heavy flooding affecting Karachi, thousands affected.",\N,\N,\N
+"82","Hurricane","Puerto Rico","High","2021-03-30","Category 4 hurricane approaching, emergency declared.",\N,\N,\N
+"83","Drought","California, USA","Medium","2021-02-15","Ongoing drought, water reserves running low.",\N,\N,\N
+"84","Tsunami","Indonesia","High","2021-01-07","Tsunami waves striking coastal villages after undersea quake.",\N,\N,\N
+"85","Landslide","Ecuador","Medium","2020-12-20","Heavy rains triggering mudslides in Andean region.",\N,\N,\N
+"86","Winter Storm","Russia","Medium","2020-11-11","Cold wave and ice storms causing road accidents.",\N,\N,\N
+"87","Wildfire","Turkey","High","2020-10-05","Forest fires breaking out near tourist areas.",\N,\N,\N
+"88","Flood","Thailand","Medium","2020-09-13","Monsoon rains causing river overflow, displacing thousands.",\N,\N,\N
+"89","Cyclone","Myanmar","High","2020-08-25","Cyclone causing widespread destruction in coastal areas.",\N,\N,\N
+"90","Tornado","Nebraska, USA","Medium","2020-07-18","EF2 tornado causing moderate property damage.",\N,\N,\N
+"91","Heatwave","India","High","2020-06-29","Temperatures exceeding 50°C in Rajasthan.",\N,\N,\N
+"92","Earthquake","Greece","High","2020-05-10","6.5 magnitude earthquake hitting Athens, buildings collapse.",\N,\N,\N
+"93","Hurricane","Bahamas","High","2020-04-22","Hurricane Dorian causing devastating damage.",\N,\N,\N
+"94","Flood","Italy","Medium","2020-03-18","Venice flooding due to record high tides.",\N,\N,\N
+"95","Tsunami","New Zealand","High","2020-02-05","Tsunami warnings after a massive undersea earthquake.",\N,\N,\N
+"96","Landslide","Peru","Medium","2020-01-15","Heavy rain triggering landslides in Andean communities.",\N,\N,\N
+"97","Snowstorm","Japan","Medium","2019-12-28","Record snowfall affecting northern regions.",\N,\N,\N
+"98","Drought","Ethiopia","High","2019-11-10","Severe drought conditions worsening food shortages.",\N,\N,\N
+"99","Wildfire","Brazil","High","2019-10-20","Amazon forest fires reaching record levels.",\N,\N,\N
+"100","Earthquake","Mexico","High","2019-09-01","7.1 magnitude earthquake shaking Mexico City.",\N,\N,\N
+"101","Other","India","Medium","2025-03-29","","NDMA",\N,\N

@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Real Time Disaster Management System</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {}
+            }
+        }
+    </script>
+</head>
+<body class="bg-gray-100 dark:bg-gray-900 h-screen flex items-center justify-center">
+    <div class="absolute top-4 w-full text-center">
+        <h1 class="text-3xl font-bold text-gray-800 dark:text-white">Real Time Disaster Management System</h1>
+    </div>
+    <div class="bg-white dark:bg-gray-800 p-8 rounded-lg shadow-md w-96">
+        <h1 class="text-2xl font-bold text-black dark:text-white mb-6 text-center">Login</h1>
+        <form action="/login" method="POST">
+            <div class="mb-4">
+                <label class="block text-black dark:text-white text-sm font-bold mb-2" for="username">
+                    Username
+                </label>
+                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-black dark:text-white leading-tight focus:outline-none focus:shadow-outline dark:bg-gray-700 dark:border-gray-600" 
+                       id="username" name="username" type="text" required>
+            </div>
+            <div class="mb-6">
+                <label class="block text-black dark:text-white text-sm font-bold mb-2" for="password">
+                    Password
+                </label>
+                <input class="shadow appearance-none border rounded w-full py-2 px-3 text-black dark:text-white mb-3 leading-tight focus:outline-none focus:shadow-outline dark:bg-gray-700 dark:border-gray-600" 
+                       id="password" name="password" type="password" required>
+            </div>
+            <div class="flex items-center justify-between">
+                <button class="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline" 
+                        type="submit">
+                    Sign In
+                </button>
+                <a class="inline-block align-baseline font-bold text-sm text-blue-500 hover:text-blue-800 dark:text-blue-400 dark:hover:text-blue-300" 
+                   href="/signup">
+                    Create Account
+                </a>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
