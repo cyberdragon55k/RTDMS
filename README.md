@@ -14,18 +14,17 @@ The **Real-Time Disaster Data Management System (RTDMS)** is a Python-based plat
 
 ## Technologies Used
 
-- **Backend:** Python (Flask/Django)
-- **Database:** MySQL/PostgreSQL
-- **Frontend:** HTML, CSS, JavaScript (React/Vue)
-- **APIs:** OpenWeather, USGS Earthquake API, Social Media Data
+- **Backend:** Python (Flask)
+- **Database:** MySQL
+- **Frontend:** HTML, CSS, JavaScript
+- **APIs:** OpenWeather, API, Social Media Data
 
 ## Installation
 
 ### Prerequisites
 
 - Python 3.x
-- MySQL or PostgreSQL
-- Node.js (for frontend)
+- MySQL
 
 ### Steps
 
@@ -46,21 +45,14 @@ The **Real-Time Disaster Data Management System (RTDMS)** is a Python-based plat
      ```
 4. **Start the Server:**
    ```sh
-   python app.py
+   python main.py
    ```
-5. **Run Frontend (if applicable):**
-   ```sh
-   cd frontend
-   npm install
-   npm start
-   ```
+
 
 ## Usage
 
 1. **Register/Login** to access the dashboard.
 2. **View real-time disaster updates** on the map.
-3. **Set alerts** for specific disaster types.
-4. **Download reports** for analysis.
 
 ## Contributing
 
