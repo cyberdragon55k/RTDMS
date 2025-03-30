@@ -38,13 +38,11 @@ The **Real-Time Disaster Data Management System (RTDMS)** is a Python-based plat
    pip install -r requirements.txt
    ```
 3. **Configure Database:**
-   - Update `config.py` with database credentials.
-   - Run migrations:
-     ```sh
-     python manage.py migrate
-     ```
+   - import `data_mysql` to MySql
+   - For newsdata , users , disasters
+   
 4. **Start the Server:**
-   ```sh
+   ```
    python main.py
    ```
 
